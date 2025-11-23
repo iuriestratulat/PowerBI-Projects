@@ -1,6 +1,6 @@
 # 📊 Iurie Stratulat - Data Analytics Portfolio
 
-Welcome to my portfolio! Here I document my journey in data analytics, featuring projects in **Power BI**, **Excel**, and **Google Sheets**.
+Welcome to my portfolio! Here I document my journey in data analytics, featuring projects in **Power BI**.
 
 ---
 
@@ -25,8 +25,8 @@ Welcome to my portfolio! Here I document my journey in data analytics, featuring
 
 ---
 
-## 🔜 Project 2: Supermarket Analysis (Coming Soon)
-*Analysis of customer behavior across 3 branches using Google Sheets.*
+## 🔜 Project 2: Superstore (Coming Soon)
+
 
 ---
 *Connect with me on [LinkedIn](https://www.linkedin.com/in/iurie-stratulat/)*
