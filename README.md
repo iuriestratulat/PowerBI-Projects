@@ -1,6 +1,6 @@
 # 📊 Iurie Stratulat - Data Analytics Portfolio
 
-Welcome to my portfolio! Here I document my journey in data analytics, featuring projects in **Power BI**.
+Welcome to my portfolio! Here I document my journey in data analytics, featuring projects in **Power BI**, **Excel**, and **Google Sheets**.
 
 ---
 
@@ -18,15 +18,29 @@ Welcome to my portfolio! Here I document my journey in data analytics, featuring
 * **Time Intelligence:** Implemented DAX measures for Year-over-Year (YoY) growth comparison.
 
 ### 📂 File Structure
-* `Sales_Project.pbix`: The complete Power BI file (download to view interactivity).
+* `Sales_Project.pbix`: The complete Power BI file.
 * `Data Source (Excel)`: Raw datasets used for this analysis.
 
-👉 **[Click here to browse the project files](01_Sales_Project/)**
+👉 **[Click here to browse Project 1 files](01_Sales_Project/)**
 
 ---
 
-## 🔜 Project 2: Superstore (Coming Soon)
+## 🛒 Project 2: Superstore Activity Analysis (Power BI)
 
+**Objective:** Analyze customer purchasing behavior, payment methods, and delivery performance.
+
+### 🖼️ Dashboard Preview
+![Superstore Dashboard](02_Superstore_activity/screenshots/Superstore_activity_1.jpg)
+
+### 🧩 Key Features
+* **Customer Behavior:** Analyzed revenue by customer state and payment preferences.
+* **Delivery Analysis:** Tracked delivery status (On Time vs Overdue) and processing days.
+* **Cash Flow:** Visualized revenue streams over time using stacked charts.
+
+### 📂 File Structure
+* `Superstore_activity.pbix`: Full Power BI report.
+
+👉 **[Click here to browse Project 2 files](02_Superstore_activity/)**
 
 ---
 *Connect with me on [LinkedIn](https://www.linkedin.com/in/iurie-stratulat/)*
